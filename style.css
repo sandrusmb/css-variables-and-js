@@ -1,0 +1,67 @@
+:root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --base: #ffc600;
+  --spacing: 10px;
+  --border-radius: 10px;
+  --blur: 5px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #74ebd5;
+  background: -webkit-linear-gradient(to right, #acb6e5, #74ebd5);
+  background: linear-gradient(to right, #acb6e5, #74ebd5);
+}
+
+.js {
+  color: var(--base);
+}
+
+h2 {
+  font-size: 3em;
+  margin-top: 50px;
+  font-family: "Barrio", cursive;
+}
+
+.controls {
+  margin: 50px 0;
+  font-size: 1em;
+  font-family: "Barrio", cursive;
+  padding: 0 50px;
+}
+
+img {
+  width: 500px;
+  /*   padding: var(--spacing);
+  border-radius: var(--border-radius); */
+  /*  background: var(--base); */
+  /*   filter: blur(var(--blur)); */
+}
+
+#spacing {
+  margin-right: 30px;
+}
+
+#blur {
+  margin-right: 30px;
+}
+
+#border-radius {
+  margin-right: 30px;
+}
+/* 
+
+font-family: "Lekton", sans-serif;
+
+font-family: "The Girl Next Door", cursive;
+font-family: "Kranky", cursive;
+
+font-family: "Text Me One", sans-serif;
+font-family: "Barrio", cursive; 
+*/
