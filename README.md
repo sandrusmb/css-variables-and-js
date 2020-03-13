@@ -2,6 +2,8 @@
 
 Se trata de un "CSS effects showroom" o, lo que es lo mismo, una web con una imagen sobre la que se pueden aplicar diferentes efectos modificando los valores de 3 inputs range y un input color.
 
+![Demo](https://github.com/sandrusmb/css-variables-and-js/blob/master/variables_css.gif?raw=true)
+
 ## ¿Qué he aprendido? / Webgrafía
 
 Ha sido muy interesante poder utilizar variables de JS en CSS y hacer dinámicos los valores de padding, border-radius, filter blur o color.
