@@ -13,7 +13,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  /*   height: 100vh; */
   background: #74ebd5;
   background: -webkit-linear-gradient(to right, #acb6e5, #74ebd5);
   background: linear-gradient(to right, #acb6e5, #74ebd5);
@@ -40,7 +40,7 @@ img {
   width: 500px;
   /*   padding: var(--spacing);
   border-radius: var(--border-radius); */
-  /*  background: var(--base); */
+  background: #ffc600;
   /*   filter: blur(var(--blur)); */
 }
 
