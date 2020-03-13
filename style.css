@@ -13,7 +13,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /*   height: 100vh; */
   background: #74ebd5;
   background: -webkit-linear-gradient(to right, #acb6e5, #74ebd5);
   background: linear-gradient(to right, #acb6e5, #74ebd5);
@@ -38,10 +37,7 @@ h2 {
 
 img {
   width: 500px;
-  /*   padding: var(--spacing);
-  border-radius: var(--border-radius); */
   background: #ffc600;
-  /*   filter: blur(var(--blur)); */
 }
 
 #spacing {
@@ -55,13 +51,3 @@ img {
 #border-radius {
   margin-right: 30px;
 }
-/* 
-
-font-family: "Lekton", sans-serif;
-
-font-family: "The Girl Next Door", cursive;
-font-family: "Kranky", cursive;
-
-font-family: "Text Me One", sans-serif;
-font-family: "Barrio", cursive; 
-*/
